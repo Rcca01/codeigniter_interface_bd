@@ -1,6 +1,12 @@
 ###################
-What is CodeIgniter
+MY_Interfacebd / Model
 ###################
+
+Model para facilitar a manipulação da Query Builder Class fazendo a reutilização de código.
+
+*******************
+What is CodeIgniter
+*******************
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
 who build web sites using PHP. Its goal is to enable you to develop projects
